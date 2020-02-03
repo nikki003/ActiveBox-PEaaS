@@ -1,0 +1,36 @@
+.back {
+  background-image: url("images/banner.jpg");
+  color: white;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+  align-content: center;
+}
+
+.nav-link {
+  color: white;
+}
+
+.jumbotron {
+  margin: 100px;
+  margin-top: auto;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding-top: 200px;
+  align-content: center;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  background-color: transparent;
+}
+
+.btn {
+  margin: 50px;
+}
+
+.header {
+  overflow: hidden;
+  background-image: url("images/banner.jpg");
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
